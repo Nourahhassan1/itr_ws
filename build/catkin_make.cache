@@ -1,0 +1,2 @@
+beacon:first_coursework:hello_world:my_msgs
+-DCATKIN_DEVEL_PREFIX=/home/noura/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/noura/ros_ws/install -G Unix Makefiles
